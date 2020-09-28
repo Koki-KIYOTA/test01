@@ -8,22 +8,31 @@ This is section 1.
 This is my second paragraph/
 
 ## Section 2
-Marking *Uhordered* list is easy.
+Marking *Uhordered* list is very easy.
 
 - 1st item
 - 2nd item
 - 3rd item
 
 ## Section 3
-#Orderd* list is very useful.
+#Orderd* list is useful.
 
-1. number 1
-1. number 2
-1. number 3
-1. number 4
-1. number 5
+1. number A
+1. number B
+1. number C
+
 
 ##Section 4
 
 You can jump to[GitHub](http://github.com)
-easily
+easily.
+
+## Section 5
+
+This is also easy.
+
+|Team    |Win | Lose | Draw |
+|--------|---:|-----:|-----:|
+|Hawks   |  46|    34|     4|
+|Eagles  |  46|    36|     2|
+|Martines|  42|    39|     3|
